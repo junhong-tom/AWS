@@ -5,10 +5,10 @@
 
 
 <div style="width: 60%">
-  ![](./Certification/SysOps/操作過程截圖/IAM_主控台.jpg)
+  ![](./Certification/SysOps/操作過程截圖/IAM_主控台.jpg "圖片名稱2")
 </div>
 
 
-
+<img src="./Certification/SysOps/操作過程截圖/IAM_主控台.jpg" width="150" height="280">
 
 
